@@ -1,0 +1,5 @@
+build/
+dist/Sync.jar
+dist/javadoc/
+nbproject/private/
+*.class
